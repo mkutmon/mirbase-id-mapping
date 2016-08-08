@@ -5,4 +5,5 @@ Java script to create BridgeDb ID mapping database for mature microRNAs from mir
 ------------------
 
 ### miRBase release 21:
-Download BridgeDb mapping database from [mirBase-mature-v21.zip](https://github.com/mkutmon/mirbase-id-mapping/releases/download/v21/mirBase-mature-v21.zip)
+* Download BridgeDb mapping database from [mirBase-mature-v21.zip](https://github.com/mkutmon/mirbase-id-mapping/releases/download/v21/mirBase-mature-v21.zip)
+* System code used for mirBase identifiers = Mbm (miRBase mature sequence)
