@@ -29,12 +29,12 @@ import org.bridgedb.rdb.construct.GdbConstructImpl3;
 public class MatureIdMapper {
 	
 	// change bridgeName if needed = output file
-	private static String bridgeName = "mirBase-mature-v21.bridge";
+	private static String bridgeName = "mirBase-mature-v22.1.bridge";
 	private static String dbName = "mirBase mature";
-	private static String dbVersion = "v21";
+	private static String dbVersion = "v22.1";
 	private static String type = "mature microRNAs";
 	
-	private static String mirbaseUrl = "ftp://mirbase.org/pub/mirbase/CURRENT/aliases.txt.zip";
+	private static String mirbaseUrl = "https://www.mirbase.org/ftp/CURRENT/aliases.txt.zip";
 	
 	public static void main(String[] args) {
 		try {
